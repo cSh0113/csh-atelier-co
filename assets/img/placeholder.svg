@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" role="img" aria-label="Image coming soon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8e4dd"/>
+      <stop offset="1" stop-color="#d8d3ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#g)"/>
+  <g fill="none" stroke="#a89f90" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" opacity=".75">
+    <!-- hanger + garment outline -->
+    <path d="M300 250c-16 0-28-12-28-27s12-27 28-27 28 12 28 27c0 10-6 15-14 20l-14 9z"/>
+    <path d="M300 252 L200 300 L170 350 L205 372 L228 340 L228 520 L372 520 L372 340 L395 372 L430 350 L400 300 Z"/>
+    <path d="M262 252c0 21 17 38 38 38s38-17 38-38"/>
+  </g>
+  <text x="300" y="596" text-anchor="middle" font-family="'Martian Mono',ui-monospace,monospace"
+        font-size="17" letter-spacing="4" fill="#8f8879">CSH ATELIER</text>
+  <text x="300" y="626" text-anchor="middle" font-family="Archivo,system-ui,sans-serif"
+        font-size="15" fill="#a89f90">Image coming soon</text>
+</svg>
