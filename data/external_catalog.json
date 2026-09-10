@@ -1,0 +1,389 @@
+[
+  {
+    "slug": "mdlan-like-your-heart-joggers",
+    "url": "https://cshinnovations.com/products/mdlan-like-your-heart-joggers",
+    "name": "MDL'AN® | Like your Heart - Joggers",
+    "price_usd": 41.7,
+    "image": "assets/img/catalog/mdlan-like-your-heart-joggers.jpg",
+    "available": true,
+    "price_zar": 771.45
+  },
+  {
+    "slug": "mdlan-pure-mens-athletic-shoes",
+    "url": "https://cshinnovations.com/products/mdlan-pure-mens-athletic-shoes",
+    "name": "MDL'AN® Pure - Men's Athletic Shoes",
+    "price_usd": 45.0,
+    "image": "assets/img/catalog/mdlan-pure-mens-athletic-shoes.jpg",
+    "available": true,
+    "price_zar": 832.5
+  },
+  {
+    "slug": "mdlan-think-pixel-character-sherpa-blanket",
+    "url": "https://cshinnovations.com/products/mdlan-think-pixel-character-sherpa-blanket",
+    "name": "MDL'AN® | Think + - Pixel Character Sherpa Blanket",
+    "price_usd": 49.5,
+    "image": "assets/img/catalog/mdlan-think-pixel-character-sherpa-blanket.jpg",
+    "available": true,
+    "price_zar": 915.75
+  },
+  {
+    "slug": "mdlan-prioritize-your-well-being-pixel-art-cuffed-beanie",
+    "url": "https://cshinnovations.com/products/mdlan-prioritize-your-well-being-pixel-art-cuffed-beanie",
+    "name": "MDL'AN® | Prioritize Your Well-Being - Pixel Art Cuffed Beanie",
+    "price_usd": 16.0,
+    "image": "assets/img/catalog/mdlan-prioritize-your-well-being-pixel-art-cuffed-beanie.jpg",
+    "available": true,
+    "price_zar": 296.0
+  },
+  {
+    "slug": "mdlan-like-your-heart-cuffed-beanie",
+    "url": "https://cshinnovations.com/products/mdlan-like-your-heart-cuffed-beanie",
+    "name": "MDL'AN® | Like your Heart - Cuffed Beanie",
+    "price_usd": 16.79,
+    "image": "assets/img/catalog/mdlan-like-your-heart-cuffed-beanie.jpg",
+    "available": true,
+    "price_zar": 310.62
+  },
+  {
+    "slug": "mdlan-prioritize-your-well-being-unisex-hoodie",
+    "url": "https://cshinnovations.com/products/mdlan-prioritize-your-well-being-unisex-hoodie",
+    "name": "MDL'AN® | Prioritize Your Well-Being - Unisex Hoodie",
+    "price_usd": 39.02,
+    "image": "assets/img/catalog/mdlan-prioritize-your-well-being-unisex-hoodie.jpg",
+    "available": true,
+    "price_zar": 721.87
+  },
+  {
+    "slug": "mdlan-prioritize-your-well-being-pixel-heart-spiral-notebook",
+    "url": "https://cshinnovations.com/products/mdlan-prioritize-your-well-being-pixel-heart-spiral-notebook",
+    "name": "MDL'AN® | Prioritize Your Well-Being - Pixel Heart Spiral Notebook",
+    "price_usd": 14.95,
+    "image": "assets/img/catalog/mdlan-prioritize-your-well-being-pixel-heart-spiral-notebook.jpg",
+    "available": false,
+    "price_zar": 276.57
+  },
+  {
+    "slug": "mdlan-prioritize-your-well-being-pixel-geek-duffle-bag",
+    "url": "https://cshinnovations.com/products/mdlan-prioritize-your-well-being-pixel-geek-duffle-bag",
+    "name": "MDL'AN® | Prioritize Your Well-Being - Pixel Geek Duffle Bag",
+    "price_usd": 61.0,
+    "image": "assets/img/catalog/mdlan-prioritize-your-well-being-pixel-geek-duffle-bag.jpg",
+    "available": true,
+    "price_zar": 1128.5
+  },
+  {
+    "slug": "mdlan-prioritize-your-well-being-socks",
+    "url": "https://cshinnovations.com/products/mdlan-prioritize-your-well-being-socks",
+    "name": "MDL'AN® | Prioritize Your Well-Being Socks",
+    "price_usd": 12.95,
+    "image": "assets/img/catalog/mdlan-prioritize-your-well-being-socks.jpg",
+    "available": true,
+    "price_zar": 239.57
+  },
+  {
+    "slug": "mdlan-x-under-armour-prioritize-your-well-being-hat-2",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-prioritize-your-well-being-hat-2",
+    "name": "MDL'AN® x Under Armour® | Prioritize Your Well-Being Hat",
+    "price_usd": 31.94,
+    "image": "assets/img/catalog/mdlan-x-under-armour-prioritize-your-well-being-hat-2.jpg",
+    "available": true,
+    "price_zar": 590.89
+  },
+  {
+    "slug": "mdlan-x-under-armour-prioritize-your-well-being-backpack",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-prioritize-your-well-being-backpack",
+    "name": "MDL'AN® x Under Armour® | Prioritize your well-being Backpack",
+    "price_usd": 64.15,
+    "image": "assets/img/catalog/mdlan-x-under-armour-prioritize-your-well-being-backpack.jpg",
+    "available": true,
+    "price_zar": 1186.78
+  },
+  {
+    "slug": "mdlan-x-under-armour-prioritize-your-well-being-hat",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-prioritize-your-well-being-hat",
+    "name": "MDL'AN® x Under Armour® | Prioritize Your Well-Being Hat",
+    "price_usd": 31.94,
+    "image": "assets/img/catalog/mdlan-x-under-armour-prioritize-your-well-being-hat.jpg",
+    "available": true,
+    "price_zar": 590.89
+  },
+  {
+    "slug": "mdlan-x-under-armour-womens-polo",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-womens-polo",
+    "name": "MDL'AN® x Under Armour® Women's Polo",
+    "price_usd": 55.0,
+    "image": "assets/img/catalog/mdlan-x-under-armour-womens-polo.jpg",
+    "available": true,
+    "price_zar": 1017.5
+  },
+  {
+    "slug": "mdlan-x-under-armour-prioritize-your-health-mens-polo",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-prioritize-your-health-mens-polo",
+    "name": "MDL'AN® x Under Armour® - Prioritize your health men’s polo",
+    "price_usd": 55.0,
+    "image": "assets/img/catalog/mdlan-x-under-armour-prioritize-your-health-mens-polo.jpg",
+    "available": true,
+    "price_zar": 1017.5
+  },
+  {
+    "slug": "mdlan-x-under-armour-prioritize-your-well-being-athletic-tee",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-prioritize-your-well-being-athletic-tee",
+    "name": "MDL'AN® x Under Armour® Prioritize Your Well-Being Athletic Tee",
+    "price_usd": 29.99,
+    "image": "assets/img/catalog/mdlan-x-under-armour-prioritize-your-well-being-athletic-tee.jpg",
+    "available": true,
+    "price_zar": 554.81
+  },
+  {
+    "slug": "mdlan-x-under-armour-athletic-tee",
+    "url": "https://cshinnovations.com/products/mdlan-x-under-armour-athletic-tee",
+    "name": "MDL'AN® x Under Armour® Athletic Tee",
+    "price_usd": 29.99,
+    "image": "assets/img/catalog/mdlan-x-under-armour-athletic-tee.jpg",
+    "available": true,
+    "price_zar": 554.81
+  },
+  {
+    "slug": "mdlan-butterfly-manifesto-windbreaker-womens",
+    "url": "https://cshinnovations.com/products/mdlan-butterfly-manifesto-windbreaker-womens",
+    "name": "MDL'AN Butterfly Manifesto Windbreaker - Women's",
+    "price_usd": 46.0,
+    "image": "assets/img/catalog/mdlan-butterfly-manifesto-windbreaker-womens.jpg",
+    "available": false,
+    "price_zar": 851.0
+  },
+  {
+    "slug": "mdlan-women-empowerment-water-bottle",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-water-bottle",
+    "name": "MDL'AN Women Empowerment Water Bottle",
+    "price_usd": 25.0,
+    "image": "assets/img/catalog/mdlan-women-empowerment-water-bottle.jpg",
+    "available": false,
+    "price_zar": 462.5
+  },
+  {
+    "slug": "mdlan-master-of-haute-wear-jacquard-knit-cardigan",
+    "url": "https://cshinnovations.com/products/mdlan-master-of-haute-wear-jacquard-knit-cardigan",
+    "name": "MDL’AN “Master of Haute Wear” Jacquard Knit Cardigan",
+    "price_usd": 55.0,
+    "image": "assets/img/catalog/mdlan-master-of-haute-wear-jacquard-knit-cardigan.jpg",
+    "available": true,
+    "price_zar": 1017.5
+  },
+  {
+    "slug": "ur-art-0001-you-are-art",
+    "url": "https://cshinnovations.com/products/ur-art-0001-you-are-art",
+    "name": "UR-ART #0001 — You Are Art",
+    "price_usd": 31.0,
+    "image": "assets/img/catalog/ur-art-0001-you-are-art.jpg",
+    "available": true,
+    "price_zar": 573.5
+  },
+  {
+    "slug": "mdlan-women-empowerment-beanie",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-beanie",
+    "name": "MDL'AN Women Empowerment Beanie",
+    "price_usd": 19.0,
+    "image": "assets/img/catalog/mdlan-women-empowerment-beanie.jpg",
+    "available": false,
+    "price_zar": 351.5
+  },
+  {
+    "slug": "mdlan-noir-is-power-box-premier-t-shirt",
+    "url": "https://cshinnovations.com/products/mdlan-noir-is-power-box-premier-t-shirt",
+    "name": "MDL'AN Noir is Power Box Premier T-Shirt",
+    "price_usd": 32.0,
+    "image": "assets/img/catalog/mdlan-noir-is-power-box-premier-t-shirt.jpg",
+    "available": false,
+    "price_zar": 592.0
+  },
+  {
+    "slug": "mdlan-women-empowerment-tracksuit",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-tracksuit",
+    "name": "MDL'AN Women Empowerment Tracksuit",
+    "price_usd": 76.0,
+    "image": "assets/img/catalog/mdlan-women-empowerment-tracksuit.jpg",
+    "available": false,
+    "price_zar": 1406.0
+  },
+  {
+    "slug": "mdlan-gbv-awareness-kids-t-shirt",
+    "url": "https://cshinnovations.com/products/mdlan-gbv-awareness-kids-t-shirt",
+    "name": "MDL'AN GBV Awareness Kids T-Shirt",
+    "price_usd": 19.0,
+    "image": "assets/img/catalog/mdlan-gbv-awareness-kids-t-shirt.jpg",
+    "available": false,
+    "price_zar": 351.5
+  },
+  {
+    "slug": "mdlan-womens-comfort-shoes-power-protection-edition",
+    "url": "https://cshinnovations.com/products/mdlan-womens-comfort-shoes-power-protection-edition",
+    "name": "MDL'AN Women's Comfort Shoes - Power & Protection Edition",
+    "price_usd": 65.0,
+    "image": "https://imgproxy.fourthwall.dev/W86jPhlIsFM-5tAl559VCrg6iI-mNJgG8ugZhwOzvzE/w:720/sm:1/enc/32KnwFTdMf2eWEg5/YeSr_lgMh0fi6K_Q/9XZwt96A0HsMJCPZ/lzTZIPrBDdrGZIgm/5slxK8HDKqJLNVb-/kkOnIS3jKj51-73E/w4EuE4N3uhE8hVBL/xq04771relQIWJoS/Bm0kxxgKl38IypZm/xmJzADowpg589noA/CcEUS6FAYxO6-nLo/YIxpEYA-HA5-3kVr/lo0fclkoQxg_g71g/xzMMOlFahLYeOxij/MgIJVfs2VMI.jpg",
+    "available": false,
+    "price_zar": 1202.5
+  },
+  {
+    "slug": "mdlan-women-empowerment-trucker-hat",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-trucker-hat",
+    "name": "MDL’AN Women Empowerment Trucker Hat",
+    "price_usd": 28.0,
+    "image": "assets/img/catalog/mdlan-women-empowerment-trucker-hat.jpg",
+    "available": false,
+    "price_zar": 518.0
+  },
+  {
+    "slug": "mdlan-women-empowerment-jogger",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-jogger",
+    "name": "MDL'AN Women Empowerment Jogger",
+    "price_usd": 42.0,
+    "image": "assets/img/catalog/mdlan-women-empowerment-jogger.jpg",
+    "available": false,
+    "price_zar": 777.0
+  },
+  {
+    "slug": "mdlan-women-empowerment-hoodie",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-hoodie",
+    "name": "MDL'AN Women Empowerment Hoodie",
+    "price_usd": 38.0,
+    "image": "https://imgproxy.fourthwall.dev/q2yNP1LTs3eWGUNKAe-vdU9TpExKDkYOO5mxlJYnLqM/w:720/sm:1/enc/Zv-RiKdbytOrg2NA/B9ZgB_QnSAgGZHZv/RNWLjnwqP6--XMsP/4qXj7fzCEPRHMwIL/caIpyMbgz3SQ9J9r/qo6A9Call7poMWI8/8oWA_aYr6MzuxwZA/6JlbSfH3ONQiJEmh/ryzViyOW8WaLo0Wo/5QNQCtZA8P1sHat9/jYVD3-wt1fy7XhGu/z06nsmABNvBw39ir/NV1WchreXwPy2s9J/JQjf3Vlc3Vy4dCku/CykTqTKkhGM.jpg",
+    "available": false,
+    "price_zar": 703.0
+  },
+  {
+    "slug": "mdlan-embroidered-tee-botanical-skull-edition",
+    "url": "https://cshinnovations.com/products/mdlan-embroidered-tee-botanical-skull-edition",
+    "name": "MDL’AN Embroidered Tee – Botanical Skull Edition",
+    "price_usd": 27.0,
+    "image": "https://imgproxy.fourthwall.dev/NUE9AYvDo6UIva0XIMWQsi6IhML9iFvwccG2e0qw4YI/w:720/sm:1/enc/IW2BIDheZ7fk_KP5/__FKwBjqJLC9cnSB/-GqNVvtxDHfamEak/YIs7HMrUeVDy-xkH/z2rGBuXjMgbUtRIt/5yqdCjf486HaVhlH/VRqJo--d_3uRPLjb/Qe2CuxHpCy9IeVbj/fESoGq-1sf4gb4Fr/eWhr3EW4X8pP2UHF/tNuxgRK3MsssBTC9/nlWfd-HtWnTrJtie/XkeioyOxCMeDPCHw/QBzPIDjhAy705UbB/7oeVAVasBj4.jpg",
+    "available": true,
+    "price_zar": 499.5
+  },
+  {
+    "slug": "mdlan-break-the-silence-t-shirt",
+    "url": "https://cshinnovations.com/products/mdlan-break-the-silence-t-shirt",
+    "name": "MDL'AN Break the Silence T-Shirt",
+    "price_usd": 26.0,
+    "image": "https://imgproxy.fourthwall.dev/thLOA3dvvxqUwl8czVuARsIy4QR1l_59Rsd-9sn_7z4/w:720/sm:1/enc/nIAOPf6nzVdrl3CV/dtqF9yBoV30-coGk/uuaRkQofLJb4DcK8/eB1R2OGJG_wIJWeP/TLeCPfBhTWAvH7A5/YmG7glVzU-v6hoep/T1oGwIvETya9bsjM/C2xyBw-bQo0oxVlN/JIWaxQ4XRigv14Kt/ACaA1YEknLSavRoc/sEoxXDNf3Qo9DgaV/HrQAyToJjQrkakfF/fZS3il7pn3jtESIk/YxmMuXWrFEoeSJUz/InSLI2XluNU.jpg",
+    "available": false,
+    "price_zar": 481.0
+  },
+  {
+    "slug": "csh-atelier-co-women-empowerment-tote-bags",
+    "url": "https://cshinnovations.com/products/csh-atelier-co-women-empowerment-tote-bags",
+    "name": "CSH Atelier Co. Women Empowerment Tote Bags",
+    "price_usd": 38.0,
+    "image": "assets/img/catalog/csh-atelier-co-women-empowerment-tote-bags.jpg",
+    "available": false,
+    "price_zar": 703.0
+  },
+  {
+    "slug": "csh-atelier-co-womens-empowerment-crop-top",
+    "url": "https://cshinnovations.com/products/csh-atelier-co-womens-empowerment-crop-top",
+    "name": "CSH Atelier Co. Women’s Empowerment Crop Top",
+    "price_usd": 30.0,
+    "image": "https://imgproxy.fourthwall.dev/7CyXBn_WNfWyvaEpQsCReUE--fLQhtCIoJZyRlc0wxs/w:720/sm:1/enc/cfiHK1dos0J5l78a/RTZnBehOct6wC137/E6Tl-PURGwkdM9hi/efYS0GMMoL2O0APl/wxpj--jBinGXG9jW/jtRNJAWyRqSK5NHp/ytAwVigQeFFk1PED/DwOmcrn4HT0vbsdx/Q0PWv-Q76to8V3L-/-cEULejkYBtG1xnP/aREBpWj9rNU0Qdks/8c2O5Yxw_xRG5a-h/5N99Rr-I7fbidwKY/bAChfUTniRLPJucT/PSTkbecEbZM.jpg",
+    "available": false,
+    "price_zar": 555.0
+  },
+  {
+    "slug": "csh-atelier-co-women-empowerment-tote-bag-2",
+    "url": "https://cshinnovations.com/products/csh-atelier-co-women-empowerment-tote-bag-2",
+    "name": "CSH Atelier Co. Women Empowerment Tote Bag",
+    "price_usd": 20.0,
+    "image": "https://imgproxy.fourthwall.dev/6R2SXlN1IfXsJPgZvIAzLXQ7yO19Ils_dQzAI2RkD5g/w:720/sm:1/enc/obB0qoygDw8Ea0y8/r_U-1cINw0gql1aa/QjX1eBZ-zAUqXuA2/sWHcwdDlk5Ix7WEt/Z1Pn3iani-Ped3ps/nMTdlTF8jpqyAxa1/DcP2zPqGvTddkNbM/lp7VO5UDz43N_pRF/hqF3eg_MPOHe_vwt/Ju_gKoefkMrHSIYr/jTo5PEZ2Rd3ZOpU1/lBbrCv6BOESbf30Y/KHGEDZZfXpB1XjNk/grFT_PbB7Rd7OJsD/kOC6VocD5i8.jpg",
+    "available": false,
+    "price_zar": 370.0
+  },
+  {
+    "slug": "mdlan-wear-tee-classical-future-edition",
+    "url": "https://cshinnovations.com/products/mdlan-wear-tee-classical-future-edition",
+    "name": "MDL’AN WEAR Tee – Classical Future Edition",
+    "price_usd": 23.0,
+    "image": "https://imgproxy.fourthwall.dev/u3vZtrqeQaAK6VDl5Z6MinAR-nYPqS3V0wC3flso3Ws/w:720/sm:1/enc/702JC5YehzGNbXOO/0_3lu8XZb9QxZCvT/yQ_V51PCmRyRyBjS/GLfsWH42QiL3kCZt/WkRlIM4INEZDxEKs/4tnggyI75ammgy88/AdqZS-zzPM4vMNf7/XTCY8zNK7O6w78IW/dyvm_3ZQwa2g1Gh-/g9QDzT_GuwXz6UI9/Cwlvm6ZhYZGlKTeU/JaMDcKLfpGaSMD0l/u29zweldE00TPWyJ/14AuX-voI5AhEDsJ/zfHz7G-eibk.jpg",
+    "available": false,
+    "price_zar": 425.5
+  },
+  {
+    "slug": "csh-atelier-co-women-empowerment-tote-bag",
+    "url": "https://cshinnovations.com/products/csh-atelier-co-women-empowerment-tote-bag",
+    "name": "CSH Atelier Co. Women Empowerment Tote Bag",
+    "price_usd": 20.0,
+    "image": "https://imgproxy.fourthwall.dev/iWyQPgei5pxP0TZ_KekxWj_LrR1aYiuIpjnaxcxv2-c/w:720/sm:1/enc/opz4HQKxaNtiaNkT/lOw8N2B6ktT1znly/Z9dm28bQKIhq5wnU/vHlp_2yA5PQ4W-DR/jquyMUmaAU-fHxsg/-d_hOyhvLZkmGa9j/0v8L28E0l5VrYHKS/cqniLFG6SajHL6JA/VfncpyIwcRTf4qPR/xFz0UyRggS8vcSJT/28FgbiIqGdydsAn-/6lEeqKAzRv0t1Nwd/KQBaVA60XN5CaVsS/uzSDOMdzoNe2aD8G/egu1nmaaCZw.jpg",
+    "available": false,
+    "price_zar": 370.0
+  },
+  {
+    "slug": "mdlan-empowerment-tee-futuristic-star-edition",
+    "url": "https://cshinnovations.com/products/mdlan-empowerment-tee-futuristic-star-edition",
+    "name": "MDL’AN Empowerment Tee – Futuristic Star Edition",
+    "price_usd": 21.0,
+    "image": "https://imgproxy.fourthwall.dev/S8rcW7M6ZzQgL_bpe0Mn7zs1XIqe2xbGqkOCWqq8WKA/w:720/sm:1/enc/mN7jN1N7gW7FrRdY/BZ166h01Qb79eFV_/dYbw1rvav65oNQ9e/yLDYO3QPmfWMIb64/8bwxv0XbMRjJJFr-/0_pdHMgljO7xrpT5/z3MrkihS08A6Y3XK/SM2psa3wTJTwnNGK/0RE67-PSpNT5DbaD/rRcwtdejmhmn77eF/g86JDguhjMwuUuSE/V7BTLaKSYKPIY2e3/HeV9ASX6O6PgaPXf/ZHKF_tn6HekVWKtA/KUk8eVDbnbI.jpg",
+    "available": false,
+    "price_zar": 388.5
+  },
+  {
+    "slug": "mdlan-cropped-tee-power-protection-edition",
+    "url": "https://cshinnovations.com/products/mdlan-cropped-tee-power-protection-edition",
+    "name": "MDL'AN Cropped Tee – Power & Protection Edition",
+    "price_usd": 29.0,
+    "image": "https://imgproxy.fourthwall.dev/m_2Ajf1lkx9tjUqJORffX_4NQ167Sx7YqFz1Yju1u4I/w:720/sm:1/enc/HPgbK3tMegYEu8UM/uxI97h43tq79UUQE/t8u8CVfXFhq3_gsq/0Jl-zpqz8L_y7ysj/ZFQ1tTMhsTnXcWZs/dsiAXbP7LOMFXJNH/BVbGP2GT64hU0T_P/seABdiq_027Zfpen/nYUNt5Gt7q_ub7E0/pRuvncx-jNXzONPx/bIH1BTlyxRDlp_s1/066xDtsXQO5kf3Wb/32oxnqDR8um4BIrn/HHGAotORuuBhNYIL/Wi0-EymSGvw.jpg",
+    "available": false,
+    "price_zar": 536.5
+  },
+  {
+    "slug": "mdlan-womens-empowerment-tee-butterfly-manifesto-edition",
+    "url": "https://cshinnovations.com/products/mdlan-womens-empowerment-tee-butterfly-manifesto-edition",
+    "name": "MDL’AN Women’s Empowerment Tee – Butterfly Manifesto Edition",
+    "price_usd": 23.0,
+    "image": "https://imgproxy.fourthwall.dev/KBVMCb0hx170ZtRYUcWtt0_F9M_hn7ZqJWvswMQ62to/w:720/sm:1/enc/XXfIAym9uzIKOmB6/7P9g9NIaRvhJTt0C/WrOUdc6NL5FFd4ap/MzmbP1DF7yTypjvA/u-6_TVYP9lgVcjPf/DfAH0GoRPQYYM7on/g-hHxRy64JNClQov/F2tUOoxXk_DKh-j8/z9_5a_dwow42rbQa/DzI2mJikvdJ9s8Gj/Gu1gyyhf_D3Oms3H/9DzMeexukol-ywd4/VrKQ3lg-QqzJ8b0f/dwm59EX-mEDg2Nxi/qGKT3gZnDLc.jpg",
+    "available": false,
+    "price_zar": 425.5
+  },
+  {
+    "slug": "mdlan-womens-empowerment-graphic-t-shirt",
+    "url": "https://cshinnovations.com/products/mdlan-womens-empowerment-graphic-t-shirt",
+    "name": "MDL’AN Women’s Empowerment Graphic T-Shirt",
+    "price_usd": 23.0,
+    "image": "https://imgproxy.fourthwall.dev/jFTKZ5iTK4tqaMasQi6FzuEaEls64SZv8Cp3bmlLY70/w:720/sm:1/enc/eHz_QRW--vM8zTwX/-9f-A4umTnJPcIYf/Q-CxELW2nfr_mbmu/539fnoSnU7dokiWC/z5Ae0r83J30z1NgS/SL7MH1Q8Kyfe8NGX/tmsQV8WYWV_UZcyq/EKT-9g_bsQzHkMzM/-qYmMx0Mr1NM3DqU/pD8e9g80SS0kJrZF/83WubcZfqMQZw0h0/lgOvz9tluE7_5IuU/PYb_U-qyr-zeRPtU/CZs1l4aUk34gHR_D/-PyIdW-Yu4U.jpg",
+    "available": false,
+    "price_zar": 425.5
+  },
+  {
+    "slug": "mdlan-women-in-art-graphic-t-shirt",
+    "url": "https://cshinnovations.com/products/mdlan-women-in-art-graphic-t-shirt",
+    "name": "MDL'AN Women in Art Graphic T-Shirt",
+    "price_usd": 23.0,
+    "image": "https://imgproxy.fourthwall.dev/YE3feu8D3Nzxj9Pcs92C2i_tULYS0vxpHl604nvpqRo/w:720/sm:1/enc/WZBkO77X5887Ch9_/0ssbyGpK0flK-ZHu/3-uAsWHzIALudAVy/ZoX_cweTK2HTolwk/tW6rslA-zohqJW2U/8688hGKdXElt7C4w/Dg5x7V03IoksZXN2/ljuQsIbLo5liVbji/TWb7nr8sFoZdMicH/ANU7WCG6y1wuYzjJ/cQSx5f4BMWhlbWYy/O_GgScTYe2SJIEJL/q54s7pgIBIER7swO/DH_WPd4sTN3k0YCZ/K-O9B4tR8-M.jpg",
+    "available": false,
+    "price_zar": 425.5
+  },
+  {
+    "slug": "mdlan-women-empowerment-t-shirt",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-t-shirt",
+    "name": "MDL'AN Women Empowerment T-Shirt",
+    "price_usd": 23.0,
+    "image": "https://imgproxy.fourthwall.dev/yZJhxZYgtZ1cQ9CJoF334GTG7yaw80lkUXBtmuazNsA/w:720/sm:1/enc/jLbWVUJ3ub0JSpum/AZWuAbmDPL14r9ii/5mumWaulsR7M3Jjy/eV4QC4mTbZpufWeR/RZwjbH7PHApn6h1L/oAVBkXDDGShNiEpr/GIg6_xPRhlMhyDB0/Ro9vwkuW2Q4QOvCD/NhexTnY9jTJWT3q2/t0eKxMx4GefMagjv/HcN_JfIpX52RvfrA/7PwJltjpSY9jZDs8/DEhwWRD4M1cLTEo6/JtgL3qafyDdtyXsk/ADx_FB2bIK4.jpg",
+    "available": false,
+    "price_zar": 425.5
+  },
+  {
+    "slug": "mdlan-women-empowerment-sticker",
+    "url": "https://cshinnovations.com/products/mdlan-women-empowerment-sticker",
+    "name": "MDL'AN Women Empowerment Sticker",
+    "price_usd": 6.2,
+    "image": "https://imgproxy.fourthwall.dev/mGT4aGn2AAZQxtfHaRuiuC-Cup0v6iwG9S5f-qEI3Es/w:720/sm:1/enc/VGuJaKvskarlYXvp/CQAenEs-pC7CGkuX/_EtuCsXbjROktt0T/fSSf9tgJE1JbpfMY/r4FHs3AOs2bpQPgy/m4nfZuAlG4MvLDkf/Y9JHxXbZ3FYxr-Kf/-pZ-3aAcpbCAYSKZ/3FbR_5FfqC3dFJ4z/Puz99j8p7rXYdWM2/zyfW5KLgKCGKx7e2/RlKLBvZPjLk5DO9O/vo42O9OmMb1SJBP9/oekv_slnyOlO-RTh/Dv8xQjBBwdQ.jpg",
+    "available": false,
+    "price_zar": 114.7
+  },
+  {
+    "slug": "empowered-women-black-mug",
+    "url": "https://cshinnovations.com/products/empowered-women-black-mug",
+    "name": "Empowered Women Black Mug",
+    "price_usd": 14.0,
+    "image": "https://imgproxy.fourthwall.dev/WGwkdNrlgVJqkkAgOZEp3kVoyOSTRNk6k0RxslFObLg/w:720/sm:1/enc/JT3yzTHo7QynX4Xa/DfU4RwOg3yHnD3y8/-ki-n2Udwf99h1ZS/SzBIw8xcVdV8OnL-/o_GGk4xGSseQuMk8/d57llv7v6QT3s3ie/RiAvrdS9oO63cR04/E37M-89haULV1_i6/cYGM4oiBqHak79ND/egthYyg5QL1gqGv0/yvemxFzCv5TVFBh-/DoJXMA8gar2lvECd/dgiaIxc3CxCRZv5C/M7BcFRqg-uYP99SU/ztL3FXWmEeI.jpg",
+    "available": false,
+    "price_zar": 259.0
+  }
+]
