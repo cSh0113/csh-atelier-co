@@ -1,0 +1,19 @@
+   # Sensitive config
+   configconfig.php
+   
+   # Database backups and temp files
+   databasebackups
+   temp
+   logs
+   
+   # Uploaded user content
+   uploads
+   !uploads.gitkeep
+   
+   # IDE files
+   .DS_Store
+   .vscode
+   .swp
+   
+   # OS files
+   Thumbs.db
